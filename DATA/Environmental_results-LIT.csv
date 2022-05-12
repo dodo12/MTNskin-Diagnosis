@@ -1,0 +1,407 @@
+﻿occurrence_id,source_type,ADM0_NAME,ISO_code,ADM1_NAME,ADM1_CODE,ADM2_NAME,ADM2_CODE,Location_name,lat,long,Geo_reliability,max_year,N_positive,higher_taxon,lower_taxon,Sample_type,PCR_Test,ER_result,KR_result,IS2404_result,16SrRNAresults,16S_23S ITS,IS2606_result,VNTR_MIRU_result_MU,VNTR_result_MPM,qPCR_confirmed,other tests,other results,MU_confirmed,Record_number
+BU_env_AU_109,LIT,Australia,AUS,Victoria,AUS.10_1,Greater Geelong,AUS.10.27_1,Point Lonsdale,,,,2007,768,na,mosquito,terrestrial invertebrate,IS2404,,,positive,,,,,positive,,,,no,7356
+BU_env_AU_110,LIT,Australia,AUS,Victoria,AUS.10_1,Mildura,AUS.10.46_1,Mildura,-34.202144,142.14939,3,2007,0,na,mosquito,terrestrial invertebrate,IS2404,,,positive,,,,,,,,,no,7356
+BU_env_AU_111,LIT,Australia,AUS,Victoria,AUS.10_1,Swan Hill,AUS.10.67_1,Swan Hill,-35.33824,143.55432,3,2007,0,na,mosquito,terrestrial invertebrate,IS2404,,,positive,,,,,,,,,no,7356
+BU_env_AU_112,LIT,Australia,AUS,Victoria,AUS.10_1,Greater Shepparton,AUS.10.28_1,Shepparton,-36.383325,145.402904,3,2007,0,na,mosquito,terrestrial invertebrate,IS2404,,,positive,,,,,,,,,no,7356
+BU_env_AU_123,LIT,Australia,AUS,Victoria,AUS.10_1,East Gippsland,AUS.10.19_1,Raymond Island,-37.91486,147.734114,3,1985,8,,koala,terrestrial vertebrate- clinical ,none,,,,,,,,,,,Clinical diagnosis,no,7796
+BU_env_AU_124,LIT,Australia,AUS,Victoria,AUS.10_1,East Gippsland,AUS.10.19_1,Raymond Island,-37.91486,147.734114,3,1985,2,,koala,terrestrial vertebrate- clinical ,none,,,,,,,,,,zn + culture,"1 positive on ZN, 1 positive on ZN and culture",yes,7806
+BU_env_AU_124,LIT,Australia,AUS,Victoria,AUS.10_1,East Gippsland,AUS.10.19_1,Raymond Island,-37.91486,147.734114,3,1980,0,,rattus rattus,terrestrial vertebrate- clinical ,none,,,,,,,,,,zn + culture ,zn + culture - ,no,7806
+BU_env_AU_131,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2000,2,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_132,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,1998,1,possum,ringtail,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_132,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2001,2,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_133,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2002,2,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_133,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2005,1,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_134,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2003,2,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_134,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2007,1,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_135,LIT,Australia,AUS,Victoria,AUS.10_1,,,Point Lonsdale,-38.2725073,144.6136725,4,2008,5,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_135,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2009,1,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_136,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2008,1,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_136,LIT,Australia,AUS,Victoria,AUS.10_1,,,Point Lonsdale,-38.2725073,144.6136725,4,2009,7,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_137,LIT,Australia,AUS,Victoria,AUS.10_1,,,Point Lonsdale,-38.2725073,144.6136725,4,2010,1,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_137,LIT,Australia,AUS,Victoria,AUS.10_1,,,Point Lonsdale,-38.2725073,144.6136725,4,2010,9,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_138,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2011,1,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_138,LIT,Australia,AUS,Victoria,AUS.10_1,,,Bellbird Creek,-37.654799,148.813948,3,2012,4,possum,Possum,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,,,Clinical diagnosis,yes,6971
+BU_env_AU_18,LIT,Australia,AUS,Victoria,AUS.10_1,,,"Cowes, Phillip Island",-38.463413,145.238673,3,2001,3,Possum,Possum,terrestrial vertebrate- clinical,IS2404,,,positive,,,,,,,"clinical, histology, AFB",,yes,8894
+BU_env_AU_333,LIT,Australia,AUS,Queensland,AUS.7_1,,,Daintree,-16.259195,145.33424,3,2013,1,,Bandicoot ,terrestrial vertebrate- faeces,"IS2404, IS2606",,,positive,,,,,,,,,yes,6686
+BU_env_AU_63,LIT,Australia,AUS,Victoria,AUS.10_1,Mornington Peninsula,AUS.10.53_1,Sorrento/Blairgowrie,-38.355156,144.754748,2,2013,4,possum,ringtail,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,6968
+BU_env_AU_64,LIT,Australia,AUS,Victoria,AUS.10_1,Mornington Peninsula,AUS.10.53_1,Sorrento/Blairgowrie,-38.355156,144.754748,2,2013,19,possum,brushtail ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,6968
+BU_env_AU_7,LIT,Australia,AUS,Queensland,AUS.7_1,,,Daintree,-16.259195,145.33424,3,2013,2,,Bandicoot ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,6686
+BU_env_AU_7,LIT,Australia,AUS,Victoria,AUS.10_1,East Gippsland,AUS.10.19_1,Raymond Island,-37.91486,147.734114,3,1980,7,,koala,terrestrial vertebrate- clinical ,none,,,,,,,,,,"histopathology +, ZN+ and culture+","7 positive on histopathology and ZN, 2 additionally positive on culture",yes,6686
+BU_env_AU_8,LIT,Australia,AUS,Queensland,AUS.7_1,,,Wonga beach,-16.34487,145.413462,3,2013,1,na,mosquito,terrestrial invertebrate,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,Yes,6686
+BU_env_AU_81,LIT,Australia,AUS,Victoria,AUS.10_1,,,Barwon Heads,-38.2747705,144.4881352,0,2009,44,,Ringtail possum ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,7155
+BU_env_AU_82,LIT,Australia,AUS,Victoria,AUS.10_1,,,Ocean Grove,-38.267045,144.52487,6,2009,0,,Ringtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_82,LIT,Australia,AUS,Victoria,AUS.10_1,,,Point Lonsdale,-38.2725073,144.6136725,4,2009,70,,Ringtail possum ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,ZN stain,yes,7155
+BU_env_AU_83,LIT,Australia,AUS,Victoria,AUS.10_1,,,Boho South,-36.7908543,145.8024316,4,2009,0,,Ringtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_83,LIT,Australia,AUS,Victoria,AUS.10_1,,,Queenscliff,-38.2671132,144.6612949,6,2009,3,,Ringtail possum ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,7155
+BU_env_AU_84,LIT,Australia,AUS,Victoria,AUS.10_1,,,Breamlea,-38.2963799,144.3897794,4,2009,0,,Ringtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_84,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2009,10,,Ringtail possum ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,7155
+BU_env_AU_85,LIT,Australia,AUS,Victoria,AUS.10_1,,,Greater Melbourne,-37.814,144.96332,4,2009,0,,Ringtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_85,LIT,Australia,AUS,Victoria,AUS.10_1,,,Point Lonsdale,-38.2725073,144.6136725,4,2009,8,,Brushtail possum ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,7155
+BU_env_AU_86,LIT,Australia,AUS,Victoria,AUS.10_1,,,Torquay,-38.3266551,144.3134076,4,2009,1,,Ringtail possum ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,7155
+BU_env_AU_86,LIT,Australia,AUS,Victoria,AUS.10_1,,,Barwon Heads,-38.2747705,144.4881352,0,2009,15,,Brushtail possum ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,7155
+BU_env_AU_87,LIT,Australia,AUS,Victoria,AUS.10_1,,,Ocean Grove,-38.267045,144.52487,6,2009,0,,Brushtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_87,LIT,Australia,AUS,Victoria,AUS.10_1,,,Phillip Island,-38.48349,145.23102,4,2009,1,,Brushtail possum ,terrestrial vertebrate- faeces,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,7155
+BU_env_AU_88,LIT,Australia,AUS,Victoria,AUS.10_1,,,Queenscliff,-38.2671132,144.6612949,6,2009,0,,Brushtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_88,LIT,Australia,AUS,Victoria,AUS.10_1,,,Boho South,-36.7908543,145.8024316,4,2009,0,,Brushtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_89,LIT,Australia,AUS,Victoria,AUS.10_1,,,Bellarine Peninsula,,,,2009,0,,soil,terrestrial non-animal,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_89,LIT,Australia,AUS,Victoria,AUS.10_1,,,Breamlea,-38.2963799,144.3897794,4,2009,0,,Brushtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_89,LIT,Australia,AUS,Victoria,AUS.10_1,,,Torquay,-38.3266551,144.3134076,4,2009,0,,Brushtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_89,LIT,Australia,AUS,Victoria,AUS.10_1,,,Point Lonsdale,-38.2725073,144.6136725,4,2009,0,,soil,terrestrial non-animal,"IS2404, IS2606 + KR",,positive,positive,,,positive,,,yes,,,yes,7155
+BU_env_AU_90,LIT,Australia,AUS,Victoria,AUS.10_1,,,Point Lonsdale,,,,2009,0,,possums,terrestrial vertebrate- clinical,IS2404,,,negative,,,,,,,Clinical,,no,7155
+BU_env_AU_90,LIT,Australia,AUS,Victoria,AUS.10_1,,,gippsland,,,,2009,0,,terrestrial plants,terrestrial non-animal,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AU_90,LIT,Australia,AUS,Victoria,AUS.10_1,,,Greater Melbourne,-37.814,144.96332,4,2009,0,,Brushtail possum ,terrestrial vertebrate- faeces,IS2404,,,negative,,,,,,,,,no,7155
+BU_env_AUS_81,LIT,Australia,AUS,Victoria,AUS.10_1,Wellington,AUS.10.72_1,Longford,,,,2006,1,Feline,Cat,terrestrial vertebrate- clinical,16S-23s + IS2404,,,positive,,positive,,,,,,Clinical diagnosis,yes,7273
+BU_env_BEN_64,LIT,Benin,BEN,Atlantique,BEN.3_1,Ze,BEN.3.8_1,Agonbo,6.732062,2.391786,2,2018,1,,Dog,terrestrial vertebrate- clinical,"IS2404, IS2606 + KR",,positive,positive,,,positive,positive,,yes,,,yes,6216
+BU_env_BEN_65,LIT,Benin,BEN,Atlantique,BEN.3_1,Ze,BEN.3.8_1,Agbahounsou,6.685028,2.393486,2,2018,1,,Goat,terrestrial vertebrate- clinical,"IS2404, IS2606 + KR",,positive,positive,,,positive,positive,,yes,,,yes,6216
+BU_env_BEN_65,LIT,Benin,BEN,Atlantique,BEN.3_1,Ze,BEN.3.8_1,Agonbo,6.732062,2.391786,2,2018,1,,Sheep,terrestrial vertebrate- clinical,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,yes,,,yes,6216
+BU_env_BEN_66,LIT,Benin,BEN,Atlantique,BEN.3_1,Ze,BEN.3.8_1,Agodenou,6.706492,2.375438,2,2018,1,,Goat,terrestrial vertebrate- clinical,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,yes,,,yes,6216
+BU_env_BEN_66,LIT,Benin,BEN,Atlantique,BEN.3_1,Ze,BEN.3.8_1,Agonbo,6.732062,2.391786,2,2018,2,,Goat,terrestrial vertebrate- clinical,"IS2404, IS2606 + KR",,negative,positive,,,positive,,,yes,,,yes,6216
+BU_env_BEN_67,LIT,Benin,BEN,Atlantique,BEN.3_1,Ze,BEN.3.8_1,Agbahounsou,6.685028,2.393486,2,2018,1,,Sheep,terrestrial vertebrate- clinical,"IS2404, IS2606 + KR",,negative,positive,,,positive,,,yes,,,yes,6216
+BU_env_BEN_68,LIT,Benin,BEN,Atlantique,BEN.3_1,Ze,BEN.3.8_1,Agbahounsou,6.685028,2.393486,2,2018,1,,Duck,terrestrial vertebrate- clinical,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,yes,,,yes,6216
+BU_env_BJ_153,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Djebadji,6.32296,2.080108,2,2012,5,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_154,LIT,Benin,BEN,Kouffo,BEN.7_1,Lalo,BEN.7.5_1,WoTogoudo,6.867295077,2.383683184,2,2012,2,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_155,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Tangnigbadji,6.763074685,2.255192289,2,2012,1,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_155,LIT,Benin,BEN,Mono,BEN.9_1,Houéyogbé,BEN.9.5_1,Yamounto,6.880858005,2.008204237,2,2012,12,,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,yes,,,yes,7073
+BU_env_BJ_156,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Vekky Daho,6.48144168,2.419041974,2,2012,4,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,,,,no,7073
+BU_env_BJ_156,LIT,Benin,BEN,Mono,BEN.9_1,,,Zounhomne,6.5321242,1.737326396,2,2012,7,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,,,,no,7073
+BU_env_BJ_157,LIT,Benin,BEN,Atlantique,BEN.3_1,Zè,BEN.3.8_1,Kento Augue,6.547828642,2.42475268,2,2012,5,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_157,LIT,Benin,BEN,Mono,BEN.9_1,,,Se,6.473589459,1.792291945,2,2012,2,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_158,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Ahomey-Hounmey,6.563533085,2.402623693,2,2012,11,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_158,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Djigbe Gbodje,6.867295077,2.360840358,2,2012,2,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,,,,no,7073
+BU_env_BJ_159,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Akpome,6.775923774,2.429368835,2,2012,8,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,no,,,no,7073
+BU_env_BJ_159,LIT,Benin,BEN,Kouffo,BEN.7_1,,,Tchi-Ahomadegbe,,,,2012,5,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,,,,no,7073
+BU_env_BJ_160,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Ahozonnoude,6.8136599,2.37536363,2,2012,4,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,,,,no,7073
+BU_env_BJ_160,LIT,Benin,BEN,Atlantique,BEN.3_1,Zè,BEN.3.8_1,Koundokpoe Center,6.750939434,2.248053906,2,2012,2,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,,,,no,7073
+BU_env_BJ_161,LIT,Benin,BEN,Kouffo,BEN.7_1,,,Tandji,6.94122098,1.975367675,2,2012,14,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,,,,no,7073
+BU_env_BJ_161,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Wedjame,6.770926906,2.266613702,2,2012,0,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,negative,,,,,,,,,no,7073
+BU_env_BJ_162,LIT,Benin,BEN,Atlantique,BEN.3_1,,,So Ava,6.495004608,2.401196017,2,2012,4,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_162,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Vekky Degbadje,6.49000774,2.419041974,2,2012,2,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_163,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Athieme,6.867295077,2.360840358,2,2012,3,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_163,LIT,Benin,BEN,Mono,BEN.9_1,,,Guezin,6.390784216,1.935059605,2,2012,4,estimated from map in paper,,aquatic non-animal,ER + IS2404,negative,,positive,,,,,,,,,no,7073
+BU_env_BJ_164,LIT,Benin,BEN,Atlantique,BEN.3_1,Zè,BEN.3.8_1,Ahomey Lokpo,6.578523689,2.396912987,2,2012,1,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,,,,no,7073
+BU_env_BJ_164,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Zoungomey,6.600652677,2.403337531,2,2012,7,estimated from map in paper,,aquatic non-animal,ER + IS2404,positive,,positive,,,,,,,,,no,7073
+BU_env_BJ_166,LIT,Benin,BEN,Oueme,BEN.10_1,,,Houeda,,,,2013,0,Fish,Fish,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_167,LIT,Benin,BEN,Oueme,BEN.10_1,,,Mitro,6.61215,2.51677,4,2013,0,Fish,Fish,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_167,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agonhoui,6.91404,2.455303,,2013,0,Fish,Fish,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_168,LIT,Benin,BEN,Oueme,BEN.10_1,,,Assigui,6.742033,2.524766,3,2013,1,Fish,Fish,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_168,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbonan,6.92895,2.455217,,2013,0,Fish,Fish,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_169,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbomahan,6.911855,2.452548,3,2013,0,Anura,Anura,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_169,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,8.84901,2.27962,4,2013,0,Fish,Fish,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_170,LIT,Benin,BEN,Oueme,BEN.10_1,,,Gbame,6.909762,2.451344,,2013,0,Fish,Fish,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_170,LIT,Benin,BEN,Oueme,BEN.10_1,,,Mitro,6.61215,2.51677,4,2013,0,Anura,Anura,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_171,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agonhoui,6.91404,2.455303,,2013,2,Anura,Anura,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_171,LIT,Benin,BEN,Oueme,BEN.10_1,,,Houeda,,,,2013,1,Anura,Anura,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_172,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbonan,6.92895,2.455217,,2013,0,Anura,Anura,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_172,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,8.84901,2.27962,4,2013,0,Anura,Anura,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_173,LIT,Benin,BEN,Oueme,BEN.10_1,,,Assigui,6.742033,2.524766,3,2013,1,Anura,Anura,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_173,LIT,Benin,BEN,Oueme,BEN.10_1,,,Mitro,6.61215,2.51677,4,2013,0,Odonata,Odonata,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_174,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbonan,6.92895,2.455217,,2013,0,Odonata,Odonata,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_174,LIT,Benin,BEN,Oueme,BEN.10_1,,,Gbame,6.909762,2.451344,,2013,0,Anura,Anura,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_175,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agonhoui,6.91404,2.455303,,2013,1,Odonata,Odonata,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_175,LIT,Benin,BEN,Oueme,BEN.10_1,,,Bonou,6.9044035,2.4523001,6,2013,0,Anura,Anura,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_176,LIT,Benin,BEN,Oueme,BEN.10_1,,,Assigui,6.742033,2.524766,3,2013,0,Odonata,Odonata,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_176,LIT,Benin,BEN,Oueme,BEN.10_1,,,Houeda,,,,2013,0,Odonata,Odonata,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_177,LIT,Benin,BEN,Oueme,BEN.10_1,,,Houeda,,,,2013,1,Hemiptera,Hemiptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_177,LIT,Benin,BEN,Oueme,BEN.10_1,,,Gbame,6.909762,2.451344,,2013,0,Odonata,Odonata,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_178,LIT,Benin,BEN,Oueme,BEN.10_1,,,Bonou,6.9044035,2.4523001,6,2013,0,Odonata,Odonata,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_178,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,8.84901,2.27962,4,2013,0,Odonata,Odonata,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_179,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbonan,6.92895,2.455217,,2013,1,Hemiptera,Hemiptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_179,LIT,Benin,BEN,Oueme,BEN.10_1,,,Mitro,6.61215,2.51677,4,2013,2,Hemiptera,Hemiptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_180,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agonhoui,6.91404,2.455303,,2013,2,Hemiptera,Hemiptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_180,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbomahan,6.911855,2.452548,3,2013,0,Hemiptera,Hemiptera,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_181,LIT,Benin,BEN,Oueme,BEN.10_1,,,Assigui,6.742033,2.524766,3,2013,3,Hemiptera,Hemiptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_181,LIT,Benin,BEN,Oueme,BEN.10_1,,,Bonou,6.9044035,2.4523001,6,2013,0,Hemiptera,Hemiptera,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_182,LIT,Benin,BEN,Oueme,BEN.10_1,,,Houeda,,,,2013,2,Coleoptera,Coleoptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_182,LIT,Benin,BEN,Oueme,BEN.10_1,,,Gbame,6.909762,2.451344,,2013,0,Hemiptera,Hemiptera,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_183,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,8.84901,2.27962,4,2013,1,Hemiptera,Hemiptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_184,LIT,Benin,BEN,Oueme,BEN.10_1,,,Mitro,6.61215,2.51677,4,2013,2,Coleoptera,Coleoptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_184,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agonhoui,6.91404,2.455303,,2013,0,Coleoptera,Coleoptera,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_185,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,8.84901,2.27962,4,2013,1,Coleoptera,Coleoptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_185,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbonan,6.92895,2.455217,,2013,0,Coleoptera,Coleoptera,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_186,LIT,Benin,BEN,Oueme,BEN.10_1,,,Bonou,6.9044035,2.4523001,6,2013,1,Coleoptera,Coleoptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_186,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbonan,6.92895,2.455217,,2013,0,Diptera,Diptera,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_187,LIT,Benin,BEN,Oueme,BEN.10_1,,,Assigui,6.742033,2.524766,3,2013,0,Diptera,Diptera,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_187,LIT,Benin,BEN,Oueme,BEN.10_1,,,Gbame,6.909762,2.451344,,2013,0,Coleoptera,Coleoptera,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_188,LIT,Benin,BEN,Oueme,BEN.10_1,,,Gbame,6.909762,2.451344,,2013,0,Diptera,Diptera,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_189,LIT,Benin,BEN,Oueme,BEN.10_1,,,Bonou,6.9044035,2.4523001,6,2013,1,Diptera,Diptera,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_189,LIT,Benin,BEN,Oueme,BEN.10_1,,,Mitro,6.61215,2.51677,4,2013,0,Mollusca,Mollusca,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_190,LIT,Benin,BEN,Oueme,BEN.10_1,,,Assigui,6.742033,2.524766,3,2013,0,Mollusca,Mollusca,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_190,LIT,Benin,BEN,Oueme,BEN.10_1,,,Houeda,,,,2013,0,Mollusca,Mollusca,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_191,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agonhoui,6.91404,2.455303,,2013,2,Decapoda,Decapoda,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_191,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,8.84901,2.27962,4,2013,0,Mollusca,Mollusca,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_192,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbomahan,6.911855,2.452548,3,2013,0,Decapoda,Decapoda,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_192,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agonhoui,6.91404,2.455303,,2013,0,Mollusca,Mollusca,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_193,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agonhoui,6.91404,2.455303,,2013,0,Araneae,Araneae,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_193,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,8.84901,2.27962,4,2013,0,Decapoda,Decapoda,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_194,LIT,Benin,BEN,Oueme,BEN.10_1,,,Assigui,6.742033,2.524766,3,2013,5,Decapoda,Decapoda,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_194,LIT,Benin,BEN,Oueme,BEN.10_1,,,Mitro,6.61215,2.51677,4,2013,0,Decapoda,Decapoda,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_195,LIT,Benin,BEN,Oueme,BEN.10_1,,,Houeda,,,,2013,0,Araneae,Araneae,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_195,LIT,Benin,BEN,Oueme,BEN.10_1,,,Mitro,6.61215,2.51677,4,2013,0,Araneae,Araneae,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_196,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbonan,6.92895,2.455217,,2013,0,Araneae,Araneae,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_196,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,8.84901,2.27962,4,2013,0,Araneae,Araneae,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_197,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agonhoui,6.91404,2.455303,,2013,0,Mosquito (larvae + emergent stages),Mosquito (larvae + emergent stages),aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_197,LIT,Benin,BEN,Oueme,BEN.10_1,,,Gbame,6.909762,2.451344,,2013,0,Araneae,Araneae,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_198,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbomahan,6.911855,2.452548,3,2013,0,Mosquito (larvae + emergent stages),Mosquito (larvae + emergent stages),aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_198,LIT,Benin,BEN,Oueme,BEN.10_1,,,Assigui,6.742033,2.524766,3,2013,0,Araneae,Araneae,aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_199,LIT,Benin,BEN,Oueme,BEN.10_1,,,Assigui,6.742033,2.524766,3,2013,0,Mosquito (larvae + emergent stages),Mosquito (larvae + emergent stages),aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_199,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,8.84901,2.27962,4,2013,0,Mosquito (larvae + emergent stages),Mosquito (larvae + emergent stages),aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_200,LIT,Benin,BEN,Oueme,BEN.10_1,,,Houeda,,,,2013,0,Mosquito (larvae + emergent stages),Mosquito (larvae + emergent stages),aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_200,LIT,Benin,BEN,Oueme,BEN.10_1,,,Mitro,6.61215,2.51677,4,2013,0,Mosquito (larvae + emergent stages),Mosquito (larvae + emergent stages),aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_201,LIT,Benin,BEN,Oueme,BEN.10_1,,,Agbonan,6.92895,2.455217,,2013,0,Mosquito (larvae + emergent stages),Mosquito (larvae + emergent stages),aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_202,LIT,Benin,BEN,Oueme,BEN.10_1,,,Gbame,6.909762,2.451344,,2013,0,Mosquito (larvae + emergent stages),Mosquito (larvae + emergent stages),aquatic animal,KR + IS2404,, negative,negative,,,,,,negative,,,no,6864
+BU_env_BJ_204,LIT,Benin,BEN,Oueme,BEN.10_1,,,Kode,6.749051,2.500795,3,2013,1,,0,aquatic non-animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6864
+BU_env_BJ_206,LIT,Australia,AUS,Victoria,AUS.10_1,,,"Cowes, Phillip Island",,,,1995,6,,,aquatic non-animal,IS2404,,,positive,,,,,,,,,no,7601
+BU_env_BJ_207,LIT,Japan,JPN,,JPN.8_1,,,Aizu,,,,2010,1,,Crayfish,aquatic animal,IS2404,,,positive,,,,,,,,,no,6976
+BU_env_BJ_71,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Agodenou,6.70638,2.37524,3,2016,60,na,mosquito,terrestrial invertebrate,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,no,,,no,9049
+BU_env_BJ_72,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Agbahounsou,6.70049,2.3883,3,2016,80,na,mosquito,terrestrial invertebrate,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,no,,,no,9049
+BU_env_BJ_72,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Agongbo,6.73168,2.39184,3,2016,120,na,mosquito,terrestrial invertebrate,"IS2404, IS2606 + KR",,positive,positive,,,negative,,,no,,,no,9049
+BU_env_BJ_73,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Agongbo,6.73168,2.39184,2,2016,24,mosquito (larvae),mosquito (larvae),aquatic animal,"IS2404, IS2606 + KR",,negative,positive,,,positive,,,no,,,no,9049
+BU_env_BJ_73,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Tanongou,10.816756,1.433977,3,2016,100,na,mosquito,terrestrial invertebrate,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,no,,,no,9049
+BU_env_BJ_74,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Agodenou,6.688256,2.374352,3,2016,5,mosquito (larvae),mosquito (larvae),aquatic animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,no,,,no,9049
+BU_env_BJ_75,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Agbahounsou,6.700193,2.388437,,2016,10,mosquito (larvae),mosquito (larvae),aquatic animal,"IS2404, IS2606 + KR",,negative,positive,,,positive,,,no,,,no,9049
+BU_env_BJ_76,LIT,Benin,BEN,Atlantique,BEN.3_1,,,Tanongou,,,,2016,11,mosquito (larvae),mosquito (larvae),aquatic animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,no,,,no,9049
+BU_env_BJ_80,LIT,Benin,BEN,Kouffo,BEN.7_1,,,Tevedji (village),,,,2001,1,fish,fish,aquatic animal,IS2404,,,positive,,,,,,,,,no,9100
+BU_env_CI_10,LIT,Côte d'Ivoire,CIV,Abidjan ,CIV.1_1,,,Ebrie Lagoon,,,,2017,5,,,aquatic non-animal,"ER, IS2404, 16S, MIRU for MU ",positive,,positive,positive,,,negative,,,ER for pMUM plasmid,,no,8832
+BU_env_CI_10,LIT,Côte d'Ivoire,CIV,Abidjan ,CIV.1_1,,,Adiopodoumé,5.340858,-4.133591,3,2017,5,,,aquatic non-animal,"ER, IS2404, 16S, MIRU for MU ",positive,,positive,positive,,,negative,,,ER for pMUM plasmid,,no,8832
+BU_env_CI_111,LIT,Côte d'Ivoire,CIV,Layo,CIV.7_1,Grands-Ponts,CIV.7.2_1,Layo (Dabou),,,,2008,11,Heteroptera,mixed,aquatic animal,ER + IS2404,positive,,positive,,,,,,yes,,,no,6864
+BU_env_CI_112,LIT,Côte d'Ivoire,CIV,Abidjan,CIV.1_1,Grands-Ponts,CIV.7.2_1,Bakanou A (Dabou),5.594972,-4.634771,4,2008,2,Heteroptera,mixed,aquatic animal,ER + IS2404,positive,,positive,,,,,,yes,,,no,6864
+BU_env_CI_113,LIT,Côte d'Ivoire,CIV,Abidjan,CIV.1_1,Agneby Tiassale,CIV.7.1_1,Amanikouadiokro,6.0118,-4.969565,,2008,1,Heteroptera,mixed,aquatic animal,ER + IS2404,positive,,positive,,,,,,yes,,,no,6864
+BU_env_CI_113,LIT,Côte d'Ivoire,CIV,Lagunes District,CIV.7_1,Grands-Ponts,CIV.7.2_1,Bakanou B (Dabou),5.616157,-4.61194,4,2008,0,Heteroptera,mixed,aquatic animal,ER + IS2404,positive,,negative,,,,,,yes,,,no,6864
+BU_env_CI_114,LIT,Côte d'Ivoire,CIV,Lagunes District,CIV.7_1,Agnéby-Tiassale,CIV.7.1_1,Bodo,-4.6848106,5.9098362,2,2008,2,Heteroptera,mixed,aquatic animal,ER + IS2404,positive,,positive,,,,,,yes,,,no,6864
+BU_env_CI_114,LIT,Côte d'Ivoire,CIV,Lagunes District,CIV.7_1,Agnéby-Tiassale,CIV.7.1_1,Gnankangnankansou,,,,2008,1,Heteroptera,mixed,aquatic animal,ER + IS2404,positive,,positive,,,,,,yes,,,no,6864
+BU_env_CI_115,LIT,Côte d'Ivoire,CIV,Abidjan,CIV.1_1,Agneby Tiassale,CIV.7.1_1,Sokrogbo,-4.983811195,6.083625741,2,2008,8,Heteroptera,mixed,aquatic animal,ER + IS2404,positive,,positive,,,,,,yes,,,no,6864
+BU_env_CI_116,LIT,Côte d'Ivoire,CIV,Abidjan,CIV.1_1,Agneby Tiassale,CIV.7.1_1,Kodimasso,5.899142,-4.693328,3,2008,1,Heteroptera,mixed,aquatic animal,ER + IS2404,positive,,positive,,,,,,yes,,,no,6864
+BU_env_CI_8,LIT,Côte d'Ivoire,CIV,Abidjan ,CIV.1_1,,,Adiopodoumé,5.340858,-4.133591,3,2017,2,,,aquatic non-animal,"ER, IS2404, 16S, MIRU for MU ",positive,,positive,positive,,,negative,,,ER for pMUM plasmid,,no,8832
+BU_env_CI_9,LIT,Côte d'Ivoire,CIV,Abidjan ,CIV.1_1,,,Adiopodoumé,5.340858,-4.133591,3,2017,2,,,aquatic non-animal,"ER, IS2404, 16S, MIRU for MU ",positive,,positive,positive,,,negative,,,ER for pMUM plasmid,,no,8832
+BU_env_CI_9,LIT,Côte d'Ivoire,CIV,Abidjan ,CIV.1_1,,,Adiopodoumé,5.340858,-4.133591,3,2017,1,,,aquatic non-animal,"ER, IS2404, 16S, MIRU for MU ",positive,,positive,positive,,,negative,,,ER for pMUM plasmid,,no,8832
+BU_env_CM_100,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.115807034,11.47140403,4,2013,122,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_100,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.045604991,11.518238,4,2013,41,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_101,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.042970978,11.50691103,4,2013,187,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_101,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.023251042,11.31565897,4,2013,24,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_102,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.043499038,11.34856498,4,2013,24,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_102,LIT,Cameroon,CMR,Ouest,CMR.8_1,,,,5.835719034,11.04265502,4,2013,25,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_103,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.454458972,11.30564704,4,2013,192,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_103,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.413538018,11.375965,4,2013,24,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_104,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.399536971,11.32332296,4,2013,24,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_104,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.366362991,11.47213401,4,2013,24,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_105,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.257976014,11.45893302,4,2013,24,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_105,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.174881011,11.56475396,4,2013,192,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_106,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.28462703,11.547331,4,2013,25,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_106,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.11620903,11.47125299,4,2013,31,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_115,LIT,Cameroon,CMR,Centre,CMR.2_1,,,Mbalmoyo ,3.51552,11.50085,1,2007,0,Heteroptera,Heteroptera,aquatic animal,KR + IS2404,,negative,negative,,,,,,,,,no,7159
+BU_env_CM_118,LIT,Cameroon,CMR,Centre,CMR.2_1,,,Akonlinga ,3.77334,12.24135,1,2008,1,Heteroptera,Heteroptera,aquatic animal,IS2404 + KR,,positive,positive,,,,,positive,yes,,,yes,7159
+BU_env_CM_119,LIT,cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.080864065,11.48224843,2,2008,>1,Mixed insects,Mixed insects,aquatic animal,IS2404 + KR,,positive,positive,,,,,,yes,,,yes,7115
+BU_env_CM_120,LIT,cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.044220366,11.37428038,2,2008,>1,Mixed insects,Mixed insects,aquatic animal,IS2404 + KR,,positive,positive,,,,,,yes,,,yes,7115
+BU_env_CM_121,LIT,cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.056325874,11.32749423,2,2008,>1,Mixed insects,Mixed insects,aquatic animal,IS2404 + KR,,positive,positive,,,,,,yes,,,yes,7115
+BU_env_CM_121,LIT,cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.176414296,11.58295911,2,2008,>1,Mixed insects,Mixed insects,aquatic animal,IS2404 + KR,,positive,positive,,,,,,yes,,,yes,7115
+BU_env_CM_122,LIT,cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.061233512,11.46425375,2,2008,>1,Mixed insects,Mixed insects,aquatic animal,IS2404 + KR,,positive,positive,,,,,,yes,,,yes,7115
+BU_env_CM_122,LIT,cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.051745411,11.29085053,2,2008,>1,Mixed insects,Mixed insects,aquatic animal,IS2404 + KR,,positive,positive,,,,,,yes,,,yes,7115
+BU_env_CM_123,LIT,cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.112272951,11.47832232,2,2008,>1,Mixed insects,Mixed insects,aquatic animal,IS2404 + KR,,positive,positive,,,,,,yes,,,yes,7115
+BU_env_CM_5,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.16957,11.56286,2,2011,1,,0,aquatic non-animal,"IS2404, KR + IS2606",,positive,positive,,,positive,,,yes,,,yes,6952
+BU_env_CM_6,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.01769,11.31265,2,2011,1,,0,aquatic non-animal,"IS2404, IS2606 and KR",,positive,positive,,,positive,,,yes,,,yes,6952
+BU_env_CM_6,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,Mayo-Banyo,CMR.1.3_1,,6.08456,11.48856,2,2011,1,,0,aquatic non-animal,"IS2404, IS2606 and KR",,positive,positive,,,positive,,,yes,,,yes,6952
+BU_env_CM_91,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.78010598,12.26889099,4,2013,76,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_91,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.387849005,12.13116802,4,2013,242,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_92,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.420447987,12.14243397,4,2013,75,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_92,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.479794962,12.12092098,4,2013,79,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_93,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.538699038,11.96072001,4,2013,248,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_93,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.538140971,11.920653,4,2013,60,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_94,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.633863982,11.99492496,4,2013,72,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_94,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.537938967,11.91968397,4,2013,61,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_95,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.785273004 ,12.256741,4,2013,228,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_95,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.9744000044 ,12.24659999,4,2013,69,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_96,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.771872,12.240707,4,2013,70,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_96,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,4.037583293,12.26033332,4,2013,71,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_97,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.724709982,12.27443,4,2013,199,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_97,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.649666635,12.24493333,4,2013,77,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_98,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.648150014,12.26643333,4,2013,66,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_98,LIT,Cameroon,CMR,Centre,CMR.2_1,,,,3.498527007,12.10708698,4,2013,238,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_99,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.454390995,11.31712002,4,2013,25,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CM_99,LIT,Cameroon,CMR,Adamaoua,CMR.1_1,,,,6.039191997,11.391467,4,2013,169,Mixed invertebrates,Mixed invertebrates,aquatic animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,6935
+BU_env_CMR_67,LIT,Cameroon,CMR,Centre,CMR.2_1,Nyong-et-Mfoumou,CMR.2.9_1,Yeme-yeme (Akonolinga),2.949785,10.766581,2,2018,2,,Dog,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,yes,,,yes,6216
+BU_env_CMR_68,LIT,Cameroon,CMR,Centre,CMR.2_1,Nyong-et-Mfoumou,CMR.2.9_1,Edjom (Akonolinga),3.523,11.9256,2,2018,1,,Dog,terrestrial vertebrate- clinical ,"IS2404, IS2606 + KR",,negative,positive,,,positive,,,yes,,,yes,6216
+BU_env_CMR_69,LIT,Cameroon,CMR,Centre,CMR.2_1,Nyong-et-Mfoumou,CMR.2.9_1,Ekoudou (Akonolinga),3.308,12.0044,2,2018,1,,Dog,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,yes,,,yes,6216
+BU_env_CMR_69,LIT,Cameroon,CMR,Centre,CMR.2_1,Nyong-et-Mfoumou,CMR.2.9_1,Akonolinga,3.777916,12.250032,3,2018,1,,Dog,terrestrial vertebrate- clinical ,"IS2404, IS2606 + KR",,negative,positive,,,positive,,,yes,,,yes,6216
+BU_env_CMR_70,LIT,Cameroon,CMR,Centre,CMR.2_1,Nyong-et-Mfoumou,CMR.2.9_1,Akonolinga,3.777916,12.250032,3,2018,1,,Goat,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,yes,,,yes,6216
+BU_env_CMR_70,LIT,Cameroon,CMR,Centre,CMR.2_1,Nyong-et-Mfoumou,CMR.2.9_1,Ekoudou (Akonolinga),3.308,12.0044,2,2018,1,,Pig,terrestrial vertebrate- clinical ,"IS2404, IS2606 + KR",,negative,positive,,,positive,,,yes,,,yes,6216
+BU_env_CMR_71,LIT,Cameroon,CMR,Centre,CMR.2_1,Nyong-et-Mfoumou,CMR.2.9_1,Nyeck (Akonolinga),3.82,12.3146,2,2018,1,,Duck ,terrestrial vertebrate- clinical ,IS2404,,,positive,,,,,,yes,,,yes,6216
+BU_env_GF_125,LIT,French Guiana,GUF,Cayenne,GUF.1_1,,,Matoury,4.834467,-52.3021,1,2014,1,,,aquatic non-animal,IS2404 + KR,,negative, positive (low level),,,,,,,,,no,6970
+BU_env_GF_125,LIT,French Guiana,GUF,Cayenne,GUF.1_1,,,Montjoly,4.8608,-52.25675,1,2014,1,,,aquatic non-animal,KR + IS2404,,negative, positive (low level),,,,,,,,,no,6970
+BU_env_GF_126,LIT,French Guiana,GUF,Cayenne,GUF.1_1,,,Matoury,4.838083,-52.35325,1,2014,1,,,aquatic non-animal,IS2404 + KR,,negative, positive (low level),,,,,,,,,no,6970
+BU_env_GF_126,LIT,French Guiana,GUF,Cayenne,GUF.1_1,,,Nr Iracoubo,5.44505,-53.158183,1,2014,1,,,aquatic non-animal,IS2404 + KR,,negative, positive (low level),,,,,,,,,no,6970
+BU_env_GF_127,LIT,French Guiana,GUF,Cayenne,GUF.1_1,,,Sinnamary,5.3772,-52.953883,1,2014,1,,,aquatic non-animal,IS2404 + KR,,positive, positive (low level),,,,,,yes,,,yes,6970
+BU_env_GF_127,LIT,French Guiana,GUF,Cayenne,GUF.1_1,,,Route Jojo,5.3941,-52.992017,1,2014,1,,,aquatic non-animal,IS2404 + KR,,positive, positive (low level),,,,,,yes,,,yes,6970
+BU_env_GF_128,LIT,French Guiana,GUF,Cayenne,GUF.1_1,,,Matoury,4.83365,-52.3004,1,2014,1,,,aquatic non-animal,IS2404 + KR,,negative, positive (low level),,,,,,,,,no,6970
+BU_env_GF_128,LIT,French Guiana,GUF,Cayenne,GUF.1_1,,,Nr Tonate,5.03535,-52.516483,1,2014,1,,,aquatic non-animal,IS2404 + KR,,positive, positive (low level),,,,,,yes,,,yes,6970
+BU_env_GF_129,LIT,French Guiana,GUF,Cayenne,GUF.1_1,,,Regina,4.300417,-52.13995,1,2014,1,,,aquatic non-animal,IS2404 + KR,,negative,positive,,,,,,,,,no,6970
+BU_env_GH_1,LIT,Ghana,GHA,Eastern,GHA.4_1,,,Ntabea,6.090423231,-0.379706515,3,2014,21,,,aquatic non-animal,"IS2404, IS2606 and KR",,positive,positive,,,positive,,,yes,,,yes,7934
+BU_env_GH_10,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Pataban,6.768146,-0.995463,4,2013,1,Reptile,Reptile,terrestrial vertebrate- faeces,IS2404 ,,,positive,,,,,,,,,no,6773
+BU_env_GH_11,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Nhyiaso,6.947334,-1.025052,4,2013,1,Avian,Avian,terrestrial vertebrate- faeces,IS2404 ,,,positive,,,,,,,,,no,6773
+BU_env_GH_11,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Pataban,6.768146,-0.995463,4,2013,1,Ovine,Ovine,terrestrial vertebrate- faeces,IS2404 ,,,positive,,,,,,,,,no,6773
+BU_env_GH_12,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Nhyiaso,6.947334,-1.025052,4,2013,1,Ovine,Ovine,terrestrial vertebrate- faeces,IS2404 ,,,positive,,,,,,,,,no,6773
+BU_env_GH_12,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Afrisere,7.019355,-0.923165,4,2013,1,Ovine,Ovine,terrestrial vertebrate- faeces,"IS2404 > 34, <36 twice",,,negative,,,,,,,,,no,6773
+BU_env_GH_129,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie Central,GHA.1.6_1,Bepotenten,6.092109,-1.966053,1,2015,1,,,aquatic non-animal,"IS2404, ER, 16S + VNTR",positive,,positive,positive,,,positive,,,,,no,6891
+BU_env_GH_13,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Afrisere,7.019355,-0.923165,4,2013,1,Avian,Avian,terrestrial vertebrate- faeces,IS2404 + KR,,negative,negative,,,,,,,,,no,6773
+BU_env_GH_13,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Ananekrom,6.916959,-1.01913,4,2013,1,Reptile,Reptile,terrestrial vertebrate- faeces,IS2404 + KR,,negative,negative,,,,,,,,,no,6773
+BU_env_GH_130,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie Central,GHA.1.6_1,Sukuumu,6.051937,-1.943453,1,2015,1,Muridae ,genus mastomys,terrestrial vertebrate- clinical,"IS2404, ER, 16S",positive,,positive,positive,,,,,,clinical,,yes,6891
+BU_env_GH_130,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie Central,GHA.1.6_1,Monia-Gyaman,6.051151,-1.922482,1,2015,3,,,aquatic non-animal,"IS2404, ER, 16S + VNTR",positive,,positive,positive,,,positive,,,,,no,6891
+BU_env_GH_130,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie Central,GHA.1.6_1,Sukuumu,6.051937,-1.943453,1,2015,1,,,aquatic non-animal,"IS2404, ER, 16S + VNTR",positive,,positive,positive,,,positive,,,,,no,6891
+BU_env_GH_131,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie Central,GHA.1.6_1,Wromanso,6.032613,-1.897658,1,2015,4,,,aquatic non-animal,"IS2404, ER, 16S + VNTR",positive,,positive,positive,,,positive,,,,,no,6891
+BU_env_GH_139,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Serebouso,6.95,-1.02373,3,2010,1,,,aquatic non-animal,IS2404,,,positive,,,,,,yes,,,yes,7177
+BU_env_GH_139,LIT,Ghana,GHA,Volta,GHA.9_1,various,,30 sites in region,,,,2007,0,,,aquatic non-animal,IS2404 + ER,negative,,negative,,,,,,,,,no,7177
+BU_env_GH_14,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Afrisere,7.019355,-0.923165,4,2013,1,Avian,Avian,terrestrial vertebrate- faeces,IS2404 + KR,,negative,negative,,,,,,,,,no,6773
+BU_env_GH_14,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Ananekrom,6.916959,-1.01913,4,2013,2,Ovine,Ovine,terrestrial vertebrate- faeces,IS2404 + KR,,negative,negative,,,,,,,,,no,6773
+BU_env_GH_140,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Pataban,6.776448918,-0.992263152,3,2010,1,,,aquatic non-animal,IS2404,,,positive,,,,,,yes,,,yes,7177
+BU_env_GH_140,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Nshyieso,6.9591,-1.0186,3,2010,1,,,aquatic non-animal,KR + IS2404,,positive,positive,,,,,,yes,,,yes,7177
+BU_env_GH_141,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Bonsaaso River,6.234953039,-1.998209734,,2006,1,Mixed ,,aquatic non-animal,ER,negative,,,,,,,,,,,no,7291
+BU_env_GH_141,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Nyamye Bekyere,,,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,negative,,,,yes,7291
+BU_env_GH_142,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Bonsaaso Pond,6.234953039,-1.998209734,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,negative,,,,yes,7291
+BU_env_GH_142,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Tontokrom,6.248976,-1.995365,4,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,negative,negative,,,,yes,7291
+BU_env_GH_143,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Watreso,,,,2006,1,Mixed ,,aquatic non-animal,ER,negative,,,,,,,,,,,no,7291
+BU_env_GH_143,LIT,Ghana,GHA,Central,GHA.3_1,,,Apa Abena (Denkyira),,,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,negative,,,,yes,7291
+BU_env_GH_144,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Bretsekrom,6.192661865,-1.912726145,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,negative,negative,,,,yes,7291
+BU_env_GH_144,LIT,Ghana,GHA,Central,GHA.3_1,,,Subin (Denkyira),5.866625,-1.549782,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,negative,positive,,,,yes,7291
+BU_env_GH_145,LIT,Ghana,GHA,Central,GHA.3_1,,,Adwuman (Denkyira),5.926974,-1.702075,3,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,negative,,,,yes,7291
+BU_env_GH_145,LIT,Ghana,GHA,Eastern ,GHA.4_1,Akwapim South,GHA.4.3_1,bowkrom,,,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,positive,,,,yes,7291
+BU_env_GH_146,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,amasaman (Ga),5.703291,-0.2990647,4,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,positive,,,,yes,7291
+BU_env_GH_146,LIT,Ghana,GHA,Eastern ,GHA.4_1,Akwapim South,GHA.4.3_1,pakro,5.903789,-0.319712,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,negative,negative,,,,no,7291
+BU_env_GH_147,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Ablekuma (Ga),5.6272416,-0.3102218,,2006,1,Mixed ,,aquatic non-animal,ER,negative,,,,,,,,,,,no,7291
+BU_env_GH_147,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Afuaman (Ga),5.6383197,-0.3515719,4,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,positive,,,,yes,7291
+BU_env_GH_148,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Akotoshie (Ga),5.745609,-0.3485668,,2006,1,Mixed ,,aquatic non-animal,ER,negative,,,,,,,,,,,no,7291
+BU_env_GH_148,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,,DobloGonno (Ga),5.706995,-0.354837,,2006,1,Mixed ,,aquatic non-animal,ER,negative,,,,,,,,,,,no,7291
+BU_env_GH_149,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Adumanya,5.906769,-0.06762,,2006,1,Mixed ,,aquatic non-animal,ER,negative,,,,,,,,,,,no,7291
+BU_env_GH_149,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Dodowa,5.885278,-0.09553,4,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,negative,negative,,,,yes,7291
+BU_env_GH_15,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Ananekrom,6.916959,-1.01913,4,2013,2,Avian,Avian,terrestrial vertebrate- faeces,IS2404 + KR,,negative,negative,,,,,,,,,no,6773
+BU_env_GH_15,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Dukusen,6.974334,-0.980395,4,2013,1,Avian,Avian,terrestrial vertebrate- faeces,"IS2404 > 34, <36 twice",,,negative,,,,,,,,,no,6773
+BU_env_GH_150,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Ayikumen,,,,2006,1,Mixed ,,aquatic non-animal,ER,negative,,,,,,,,,,,no,7291
+BU_env_GH_150,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Asebi,,,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,negative,,,,yes,7291
+BU_env_GH_151,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Abbepanya,5.787024047,-0.045950615,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,negative,,,,yes,7291
+BU_env_GH_151,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Keedmos (Ga),5.68492,-0.348407,3,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,negative,negative,,,,yes,7291
+BU_env_GH_152,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Afienya,5.795401,0.002335,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,negative,positive,,,,yes,7291
+BU_env_GH_152,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Odumse,,,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,negative,,,,yes,7291
+BU_env_GH_153,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Weija (Ga),5.567055,-0.334079,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,negative,negative,,,,yes,7291
+BU_env_GH_154,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Adigon (Ga),,,,2006,1,Mixed ,,aquatic non-animal,ER + VNTR,positive,,,,,,positive,positive,,,,yes,7291
+BU_env_GH_16,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Dukusen,6.974334,-0.980395,4,2013,1,Ovine,Ovine,terrestrial vertebrate- faeces,"IS2404 > 34, <36 twice",,,negative,,,,,,,,,no,6773
+BU_env_GH_16,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Nhyiaso,6.947334,-1.025052,4,2013,2,Avian,Avian,terrestrial vertebrate- faeces,"IS2404 > 34, <36 twice",,,negative,,,,,,,,,no,6773
+BU_env_GH_165,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Nsakina,5.657582,-0.324827,3,2008,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,6264
+BU_env_GH_165,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Otuaplem,5.714373,-0.389954,,2008,1,anura,Leptopelis,aquatic animal,VNTR for MU,,,,,,,positive,,,,,yes,6264
+BU_env_GH_166,LIT,Ghana,GHA,Eastern,GHA.4_1,,,Otinibi,5.796296,-0.150298,4,2008,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,6264
+BU_env_GH_17,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Pataban,6.768146,-0.995463,4,2013,3,Avian,Avian,terrestrial vertebrate- faeces,"IS2404 > 34, <36 twice",,,negative,,,,,,,,,no,6773
+BU_env_GH_17,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Pataban,6.768146,-0.995463,4,2013,4,Ovine,Ovine,terrestrial vertebrate- faeces,"IS2404 > 34, <36 twice",,,negative,,,,,,,,,no,6773
+BU_env_GH_18,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Pataban,6.768146,-0.995463,4,2013,2,Canine,Canine,terrestrial vertebrate- faeces,"IS2404 > 34, <36 twice",,,negative,,,,,,,,,no,6773
+BU_env_GH_19,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Mageda,6.790434474,-1.040548392,2,2009,1,,,aquatic non-animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,,,,no,8859
+BU_env_GH_19,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Serebuso,6.95,-1.02373,2,2009,1,,,aquatic non-animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,,,,no,8859
+BU_env_GH_2,LIT,Ghana,GHA,Eastern,GHA.4_1,,,Ashongkrom,,,3,2014,61,,,aquatic non-animal,"IS2404, IS2606 and KR",,positive,positive,,,positive,,,yes,,,yes,7934
+BU_env_GH_20,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Ananekrom,6.913893214,-1.015153922,2,2009,1,,,aquatic non-animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,,,,no,8859
+BU_env_GH_20,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Dukusen,6.976107334,-0.980997402,2,2009,1,,,aquatic non-animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,,,,no,8859
+BU_env_GH_21,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Asukasu,6.875566794,-0.995115308,2,2009,1,,,aquatic non-animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,,,,no,8859
+BU_env_GH_21,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Pataban,6.776448918,-0.992263152,2,2009,1,,,aquatic non-animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,,,,no,8859
+BU_env_GH_22,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Bebuso,6.878398431,-0.984063201,2,2009,1,,,aquatic non-animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,,,,no,8859
+BU_env_GH_22,LIT,Ghana,GHA,Ashanti,GHA.1_1,Sekyere East,GHA.1.20_1,Nshyieso 1,6.949029208,-1.062808429,2,2009,1,,,aquatic non-animal,"IS2404, IS2606 + KR",,negative,positive,,,negative,,,,,,no,8859
+BU_env_GH_23,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Akuapim South,GHA.4.3_1,Alafia,-0.1840912,5.7143623,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_23,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Akuapim South,GHA.4.3_1,Pakro,5.9055,5.9055,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_24,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Abbeypanya,-0.04,5.7842,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_24,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Akuapim South,GHA.4.3_1,Bowkrom,-0.504,5.9565,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_25,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Adumanya,-0.069,5.9103,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_25,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Asebi,-0.013,5.9055,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_26,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Afienya,0.0051816,5.7980928,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_26,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga East,GHA.5.4_1,Odumse,-0.046,5.8439,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_27,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga East,GHA.5.4_1,Adigon,-0.088,5.7919,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_27,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga East,GHA.5.4_1,Oyarifa,-0.1743117,5.7466129,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_28,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga East,GHA.5.4_1,Danfa,5.758948,-0.16163,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_28,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga East,GHA.5.4_1,Teiman,5.751149,-0.189336,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_29,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Akotoshie,-0.3485668,5.745609,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_29,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Afiaman,-0.2862503,5.7104202,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_3,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Akomfore,6.54334517,-2.077828917,3,2014,2,,,aquatic non-animal,"IS2404, IS2606 and KR",,positive,positive,,,positive,,,yes,,,yes,7934
+BU_env_GH_3,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Domesampaman,5.644544075,-0.325703437,3,2014,7,,,aquatic non-animal,"IS2404, IS2606 and KR",,positive,positive,,,positive,,,yes,,,yes,7934
+BU_env_GH_30,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Afuaman,-0.3515719,5.6383197,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_30,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Amasaman,-0.2990647,5.703291,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_31,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Ashaladja,5.66356,-0.36333,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_31,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Kwashikuma,-0.3614676,5.7111923,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_32,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Kotoku,-0.3605708,5.7363349,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_32,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Olebu,5.64237,-0.310352,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_33,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Sarpeiman,5.726496,-0.309817,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_33,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Weija,-0.344328,5.5696738,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_34,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Trebakope,5.737985,-0.315756,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_34,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Suhum Kraboa Coaltar,GHA.4.15_1,Obotumpan,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_35,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie Central,GHA.1.6_1,Abuakwaa,6.62867,-1.69618,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_35,LIT,Ghana,GHA,,,Suhum Kraboa Coaltar,GHA.4.15_1,Sumui,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_36,LIT,Ghana,GHA,Ashanti,GHA.1_1,Adansi East,,Asirifikrom,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_36,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie Central,GHA.1.6_1,Kobro,6.287803,-1.883168,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_37,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Bonsaaso,6.234953039,6.234953039,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_37,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie East,GHA.1.7_1,Ofoasi Kokobeng,6.480858,-1.641834,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_38,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Bretsekrom,6.192661865,-1.912726145,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_38,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie East,GHA.1.7_1,Senfi,-1.6345374,6.5061895,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_39,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Groso,,,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_39,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Manso Abodom,6.422764,-1.813402,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_4,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Keniago,6.484604,-1.79694,4,2014,2,,,aquatic non-animal,"IS2404, IS2606 and KR",,positive,positive,,,positive,,,yes,,,yes,7934
+BU_env_GH_4,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Wromanso,6.043447351,-1.895290886,3,2014,142,,,aquatic non-animal,"IS2404, IS2606 and KR",,positive,positive,,,positive,,,yes,,,yes,7934
+BU_env_GH_40,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Senfi,-1.6345374,6.5061895,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_40,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Manso Dominase,6.024097,-1.946456,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_41,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Tontokrom,6.248976,6.248976,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_41,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Mpatuom,6.53507,-1.933247,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_42,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Watreso,0,0,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_42,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Nyame Bekyere,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_43,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Agogo,6.8008746,6.8008746,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_43,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Patrensa,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_44,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Serebuoso,,,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_44,LIT,Ghana,GHA,Ashanti,GHA.1_1,Asante Akim North,GHA.1.9_1,Ananekrom,6.91481,6.91481,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_45,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima Mponuah,GHA.1.12_1, Aboabogya,-2.2732469,6.5483704,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_45,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima Mponuah,GHA.1.12_1,Baakoniaba,-2.0869834,6.6377352,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_46,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima Mponuah,GHA.1.12_1,Barniekrom,-2.1766874,6.540649,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_46,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima Mponuah,GHA.1.12_1,Akentensu,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_47,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima Mponuah,GHA.1.12_1,Bofaso,,,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_47,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima Mponuah,GHA.1.12_1,Kobeng,,,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_48,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima Mponuah,GHA.1.12_1,Jerusalem,-2.3373528,6.6283141,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_48,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima Mponuah,GHA.1.12_1,Pamuruso,-2.2511278,6.5271614,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_49,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima,GHA.1.11_1,Adagya,6.217101,-1.89798,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_49,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima,GHA.1.11_1,Kyenkyentaa,6.680324,-1.845999,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_5,LIT,Ghana,GHA,Central,GHA.3_1,,,Pokukrom,,,3,2014,2,,,aquatic non-animal,"IS2404, IS2606 and KR",,positive,positive,,,positive,,,yes,,,yes,7934
+BU_env_GH_50,LIT,Ghana,GHA,Ashanti,GHA.1_1,Atwima,GHA.1.11_1,Ataase,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_50,LIT,Ghana,GHA,Ashanti,GHA.1_1,Bibiani Anhwiaso Bekwai,GHA.10.4_1,Nsuta (Bibiani Anhwiaso Bekwai),-1.380092,7.011107,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_51,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Aduman (Dunkwa),-1.624992,6.826714,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_51,LIT,Ghana,GHA,Ashanti,GHA.1_1,Kwabre,GHA.1.3_1,Achiasi,-1.3119015,6.454007,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_52,LIT,Ghana,GHA,Ashanti,GHA.1_1,,,Adwumam (Dunkwa),5.925261,5.925261,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_52,LIT,Ghana,GHA,Central,GHA.3_1,Upper Denkyira,GHA.3.13_1,Ampa Abena,,,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_53,LIT,Ghana,GHA,Volta ,GHA.9_1,Ho,GHA.9.3_1,Agodeke,6.398409,0.303528,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_53,LIT,Ghana,GHA,Central,GHA.3_1,Upper Denkyira,GHA.3.13_1,Subin,6.20041,6.20041,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_54,LIT,Ghana,GHA,Volta ,GHA.9_1,Ho,GHA.9.3_1,Abutia Kloe,6.484495,0.348181,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_54,LIT,Ghana,GHA,Volta ,GHA.9_1,Ho,GHA.9.3_1,Gavorkpo,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_55,LIT,Ghana,GHA,Volta ,GHA.9_1,Kadjebi,GHA.9.6_1,Pampamwie,7.815033,0.565967,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_55,LIT,Ghana,GHA,Volta ,GHA.9_1,Ho,GHA.9.3_1,Wayanu,6.588154,0.5683,3,2007,1,,,aquatic non-animal,ER + VNTR for MU,positive,,,,,,positive,,,,,yes,5481
+BU_env_GH_56,LIT,Ghana,GHA,Volta ,GHA.9_1,Jasikan,GHA.9.5_1,Bodada,7.365053,0.488954,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_56,LIT,Ghana,GHA,Volta ,GHA.9_1,Kadjebi,GHA.9.6_1,Wawaso,7.657957,0.444922,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_57,LIT,Ghana,GHA,Volta ,GHA.9_1,Krachi East,GHA.9.11_1,Okaniase,,,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_57,LIT,Ghana,GHA,Volta ,GHA.9_1,North Tongu,GHA.9.13_1,Tadeafenui,,,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_58,LIT,Ghana,GHA,Volta ,GHA.9_1,North Tongu,GHA.9.13_1,Dofor Fortikpoe,6.074437,0.604036,3,2007,1,,,aquatic non-animal,ER,positive,,,,,,,,,,,no,5481
+BU_env_GH_58,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Dangme West,GHA.5.3_1,Afienya,0.0051816,5.7980928,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_59,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Ga West,GHA.5.5_1,Kotoku,-0.3605708,5.7363349,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_59,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Suhum Kraboa Coaltar,GHA.4.15_1,Sumui,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_60,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Bretsekrom,6.192661865,-1.912726145,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_60,LIT,Ghana,GHA,Greater Accra,GHA.5_1,Suhum Kraboa Coaltar,GHA.4.15_1,Obotumpan,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_61,LIT,Ghana,GHA,Volta,GHA.9_1,Ho,GHA.9.3_1,Agodeke,6.398409,0.303528,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_61,LIT,Ghana,GHA,Ashanti,GHA.1_1,Amansie West,GHA.1.8_1,Groso,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_62,LIT,Ghana,GHA,Volta,GHA.9_1,Ho,GHA.9.3_1,Abutia Kloe,6.484495,0.348181,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_62,LIT,Ghana,GHA,Volta,GHA.9_1,Ho,GHA.9.3_1,Gavorkpo,,,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_63,LIT,Ghana,GHA,Volta,GHA.9_1,Ho,GHA.9.3_1,Wayanu,6.588154,0.5683,3,2007,1,,,aquatic non-animal,ER + VNTR for MPM,positive,,,,,,,positive,,,,no,5481
+BU_env_GH_77,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Ayikai Dobro-1,5.679633,-0.350724,4,2001,1,fish,fish,aquatic animal,16S + IS2404,,,positive,positive,,,,,,,,no,9100
+BU_env_GH_78,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Ayikai Dobro-3,5.679633,-0.350724,4,2001,1,fish,fish,aquatic animal,16S + IS2404,,,positive,positive,,,,,,,,no,9100
+BU_env_GH_78,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Ayikai Dobro-4,,,,2001,1,fish,fish,aquatic animal,16S + IS2404,,,negative,positive,,,,,,,,no,9100
+BU_env_GH_79,LIT,Ghana,GHA,Greater Accra,GHA.5_1,,,Otuaple,5.714968,-0.389603,4,2001,1,fish,fish,aquatic animal,16S + IS2404,,,positive,positive,,,,,,,,no,9100
+BU_env_US_107,LIT,United States of America,USA,Louisiana,USA.19_1,,,,-89.9194,30.2847,1,2011,15,,,aquatic non-animal,IS2404,,,positive,,,,,,,,,no,7003
+BU_env_US_107,LIT,United States of America,USA,Louisiana,USA.19_1,,,,-90.1433,30.4089,1,2011,11,,,aquatic non-animal,IS2404,,,positive,,,,,,,,,no,7003
+BU_env_US_108,LIT,United States of America,USA,Louisiana,USA.19_1,,,,-89.9564,30.2633,1,2011,16,,,aquatic non-animal,IS2404,,,positive,,,,,,,,,no,7003
+BU_env_US_108,LIT,United States of America,USA,Louisiana,USA.19_1,,,,-89.9194,30.2847,1,2011,8,,,aquatic non-animal,IS2404,,,positive,,,,,,,,,no,7003
+BU_env_US_109,LIT,United States of America,USA,Louisiana,USA.19_1,,,,-89.9564,30.2633,1,2011,8,,,aquatic non-animal,IS2404,,,positive,,,,,,,,,no,7003
+BU_env_US_110,LIT,United States of America,USA,Louisiana,USA.19_1,,,,-90.1433,30.4089,1,2011,8,,,aquatic non-animal,IS2404,,,positive,,,,,,,,,no,7003
+BU_env_US_115,LIT,Togo,TGO,Maritime,TGO.3_1,,,Akpafo adjotoe,6.599747,0.700053,4,2015,1,,water,aquatic non-animal,"IS2404, IS2606 and KR",,negative,positive,,,positive,na,,negative,,,no,9102
+BU_env_US_116,LIT,Togo,TGO,Maritime,TGO.3_1,,,Fongbe Apedome ,6.475506828,1.340875844,,2015,1,,water/soil/plant,aquatic non-animal,"IS2404, IS2606 + KR-B by qPCR",,positive,positive,,,positive,na,,yes,,,yes,9102
+BU_env_US_117,LIT,Togo,TGO,Maritime,TGO.3_1,,,Fongbe Boeti,6.458451948,1.337559421,,2015,1,,water/soil/plant,aquatic non-animal,"IS2404, IS2606 + KR-B by qPCR",,positive,positive,,,positive,na,,yes,,,yes,9102
+BU_env_US_118,LIT,Togo,TGO,Maritime,TGO.3_1,,,Fongbe zogbedji,6.454484254,1.34226548,,2015,1,,soil,aquatic non-animal,"IS2404, IS2606 and KR",,negative,positive,,,positive,na,,negative,,,no,9102
+BU_env_US_119,LIT,Togo,TGO,Maritime,TGO.3_1,,,Gape Agacope,6.699014,0.983134,,2015,1,,soil,aquatic non-animal,"IS2404, IS2606 and KR",,negative,positive,,,positive,na,,negative,,,no,9102
+BU_env_US_120,LIT,Togo,TGO,Maritime,TGO.3_1,,,Gape Kpodji,,,,2015,1,,water,aquatic non-animal,"IS2404, IS2606 and KR",,negative,positive,,,positive,na,,negative,,,no,9102
+BU_env_US_121,LIT,Togo,TGO,Maritime,TGO.3_1,,,Kodzo,,,,2015,1,,soil,aquatic non-animal,"IS2404, IS2606 and KR",,negative,positive,,,negative,na,,negative,,,no,9102
+BU_env_US_122,LIT,Togo,TGO,Maritime,TGO.3_1,,,Tchekpo Anagali,6.508333246,1.361230901,,2015,1,,water/soil/animal faeces,aquatic non-animal,"IS2404, IS2606 and KR",,negative,positive,,,negative,na,,negative,,,no,9102
+BU_env_US_123,LIT,Togo,TGO,Maritime,TGO.3_1,,,Tchekpo Dedekpoe,6.53518,1.3601589,,2015,1,,soil,aquatic non-animal,"IS2404, IS2606 and KR",,negative,positive,,,negative,na,,negative,,,no,9102
+BU_env_US_124,LIT,Togo,TGO,Maritime,TGO.3_1,,,Tchekpo Deve,6.4831608,1.3683128,,2015,1,,water/ plant,aquatic non-animal,"IS2404, IS2606 and KR",,negative,positive,,,negative,na,,negative,,,no,9102
+BU_env_US_125,LIT,Togo,TGO,Maritime,TGO.3_1,,,Yobo Sedjro,6.408369,1.365851,,2015,2,,soil,aquatic non-animal,"IS2404, IS2606 + KR-B by qPCR",,positive,positive,,,positive,na,,yes,,,yes,9102

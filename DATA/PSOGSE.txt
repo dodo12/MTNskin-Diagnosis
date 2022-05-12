@@ -1,0 +1,15 @@
+A new hybrid population-based algorithm (PSOGSA) is proposed with the combination of Particle Swarm Optimization (PSO) and Gravitational Search Algorithm (GSA). The main idea is to integrate the ability of exploitation in PSO with the ability of exploration in GSA to synthesize both algorithms’ strength. Some benchmark test functions are used to compare the hybrid algorithm with both the standard PSO and GSA algorithms in evolving best solution.
+Paper: A New Hybrid PSOGSA Algorithm for Function Optimization, in IEEE International Conference on Computer and Information Application(ICCIA 2010), China, 2010, pp.374-377, DOI: http://dx.doi.org/10.1109/ICCIA.2010.6141614
+
+I have a number of relevant courses in this area. You can enrol via the following links with 95% discount:
+
+*********************************************************************************************************************************************
+* A course on “Optimization Problems and Algorithms: how to understand, formulation, and solve optimization problems”: *
+* https://www.udemy.com/optimisation/?couponCode=MATHWORKSREF *
+*
+* A course on “Introduction to Genetic Algorithms: Theory and Applications” *
+* https://www.udemy.com/geneticalgorithm/?couponCode=MATHWORKSREF *
+*********************************************************************************************************************************************
+
+Cite As
+Seyedali Mirjalili (2022). Hybrid Particle Swarm Optimization and Gravitational Search Algorithm (PSOGSA) (https://www.mathworks.com/matlabcentral/fileexchange/35939-hybrid-particle-swarm-optimization-and-gravitational-search-algorithm-psogsa), MATLAB Central File Exchange. Retrieved March 23, 2022.
